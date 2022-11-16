@@ -87,8 +87,6 @@ html {
 /*  Home   inicio  */
 .home {
   display: flex;
-  background: url(/image/banner.png) no-repeat;
-  background-size: cover;
   height: 100vh;
   color: var(--c-light);
   min-height: 500px;
